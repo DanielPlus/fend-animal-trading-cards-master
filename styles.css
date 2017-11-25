@@ -1,0 +1,40 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+.image{
+  border-radius: 5px;
+  border: solid;
+  border-width: thin;
+}
+.background {
+  border: 15px solid khaki;
+  box-shadow: 10px 10px 40px darkgrey;
+  border-radius: 5px;
+  width: 302px;
+  margin: 20px;
+  background: khaki;
+}
+.background2 {
+  border: solid;
+  border-radius: 5px;
+  border-width: thin;
+  font-size: 0.8em;
+  text-align: justify;
+  margin-top: 15px;
+  background: darkkhaki;
+}
+.fact {
+  font-style: italic;
+  margin-left: 10px;
+}
+.list {
+  list-style: none;
+  padding-left: 0;
+  margin: 10px;
+  }
+.listdescription {
+  font-weight: bold;
+}
+.description {
+margin: 10px;
+}
